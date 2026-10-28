@@ -2,10 +2,6 @@
   <img src="./assets/banner.png" alt="Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%" />
-</p>
-
 # Théophile Baudouin
 
 I design and build agentic workflows, LLM context harnesses, and specialized AI systems.
